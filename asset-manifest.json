@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Voice-to-Write/static/css/main.34dc3bed.css",
+    "main.js": "/Voice-to-Write/static/js/main.b62d0c6f.js",
+    "static/js/787.d2cc9710.chunk.js": "/Voice-to-Write/static/js/787.d2cc9710.chunk.js",
+    "index.html": "/Voice-to-Write/index.html",
+    "main.34dc3bed.css.map": "/Voice-to-Write/static/css/main.34dc3bed.css.map",
+    "main.b62d0c6f.js.map": "/Voice-to-Write/static/js/main.b62d0c6f.js.map",
+    "787.d2cc9710.chunk.js.map": "/Voice-to-Write/static/js/787.d2cc9710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34dc3bed.css",
+    "static/js/main.b62d0c6f.js"
+  ]
+}
